@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Project</string>
+    <string name="it_s_so_interesting">it\'s so interesting</string>
+    <string name="Введите_пароль">Введите пароль</string>
+    <string name="Введите_логин">Введите логин</string>
+    <string name="Войти">Войти</string>
+    <string name="Личный_профиль">Личный профиль</string>
+    <string name="Зарегестрироваться">Зарегестрироваться</string>
+    <string name="Введите_почту">Введите почту</string>
+    <string name="Вход">Вход</string>
+</resources>
+
+
+
